@@ -1,7 +1,5 @@
 # Image-Inpainting-via-DL
 
-**Graduation project at UCAS**
-
 **Abstract:** Image is the most important information carrier in our lives. It is an objective, vivid, specific, and intuitive description of the characteristics of things. Therefore, finding efficient image inpainting methods has been a spotlight in research. With the development and prevalence of computer technology, digital image inpainting has gradually replaced manual restoration as the mainstream method of image inpainting. Sparse-dictionary-learning based image inpainting approaches assume that the image can be sparsely represented under a certain basis, so the original image can be restored through dictionary learning, which learns the basis from the known information, and sparse coding, which finds the sparse representation of the image under the learned basis. 
 
 This thesis studies sparse-dictionary-learning based image inpainting approaches, including the following main ingredients: 
